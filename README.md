@@ -64,6 +64,8 @@ PayFlow is an mobile app created using Flutter to management your own bills, con
    <p>
    
  - Payment and Bills Management
+  
+ - Architeture MVC
 
  - Social login with Google
 
