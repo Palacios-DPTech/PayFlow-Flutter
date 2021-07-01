@@ -93,7 +93,7 @@ PayFlow is an mobile app created using Flutter to management your own bills, con
 
 <h2 align="center">Notion Files 📋</h2>
 
-- [Flutter Trail](https://www.notion.so/NLW-Together-Conte-dos-complementares-ae22125e899549efb2d4e360b5ee5ca3?p=9d2a1e0818b64b61bc5d9a0424f5c766)
+- [Flutter Trail](https://www.notion.so/Mission-Flutter-9d2a1e0818b64b61bc5d9a0424f5c766)
 
 ---
 
